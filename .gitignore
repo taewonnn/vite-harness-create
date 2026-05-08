@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# production
+/dist
+/build
+/.next
+
+# misc
+.DS_Store
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
