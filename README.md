@@ -1,11 +1,11 @@
-# vite-harness-create
+# harness-create
 
 A project scaffolding CLI that generates React/Next.js starter apps with Harness engineering documentation and standards.
 
 ## Installation
 
 ```bash
-npm create vite-harness-create@latest my-project
+npm create harness-create@latest my-project
 ```
 
 ## Usage
