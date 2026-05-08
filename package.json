@@ -1,6 +1,6 @@
 {
   "name": "vite-harness-create",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Create a new project with Harness engineering standards",
   "type": "module",
   "bin": {
